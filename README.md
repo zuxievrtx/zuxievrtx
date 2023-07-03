@@ -1,5 +1,3 @@
-![Header Image](https://i.pinimg.com/originals/ac/c0/d6/acc0d6895c9f6cf25af9909f48e4d953.gif)
-
 ### Hi there, I'm Zuxie 👋
 
 I'm a FullStack developer with experience in a variety of programming languages, including:
