@@ -30,6 +30,7 @@
 - 📫 Any Project? contact me: 0score (On Discord), 
 
 Support Me on Trakteer:
+
 <a href="https://trakteer.id/danzuxie/tip"><img src="https://svgur.com/i/11nF.svg" alt="" srcset="" href="https://trakteer.id/danzuxie/tip"></a>
 
 <h3>My Language and Tools</h3>
@@ -42,9 +43,8 @@ Support Me on Trakteer:
 </p>
 
 <h3>Activity On Github</h3>
-
-<p align="center">
-  <a href="https://github.com/zuxievrtx">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zuxievrtx&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
+    <p align="center">
+      <a href="https://github.com/zuxievrtx">      
+    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zuxievrtx&theme=dark&hide_border=true&stroke=f53b3b"/>
+    </a> 
+    </p>
