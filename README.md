@@ -44,17 +44,6 @@ I'm actively developing **AlgoNET**, a sophisticated anti-DDoS protection layer 
   </a>
 </p>
 
-## 📊 GitHub Performance
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zuxievrtx&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuxievrtx&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuxievrtx&theme=radical&hide_border=true&stroke=f53b3b&background=0D1117" />
-</div>
-
 ## 🔭 Current Projects
 
 - 🛡️ **AlgoNET**: Advanced DDoS mitigation platform with distributed traffic analysis
